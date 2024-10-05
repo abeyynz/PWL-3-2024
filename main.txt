@@ -1,1 +1,1 @@
-ini baris pertama
+kalimat ini telah diubah di branch lorem
